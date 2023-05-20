@@ -1,2 +1,3 @@
 I am in Remote Repository
 I am making changes in remote
+I am changing in local
